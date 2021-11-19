@@ -7,7 +7,7 @@ Its intended audience is the implementers of the library.
 
 ##### Interactive
 
-Producer obeys consumer-driven flow control.
+Producer obeys consumer-driven flow control.   
 Consumer manages capacity by requesting data.
 
 
